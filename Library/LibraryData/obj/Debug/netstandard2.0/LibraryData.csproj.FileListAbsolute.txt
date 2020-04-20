@@ -1,0 +1,18 @@
+D:\SoftwareEngineer\.Net Domashno\Library\LibraryData\bin\Debug\netstandard2.0\LibraryData.deps.json
+D:\SoftwareEngineer\.Net Domashno\Library\LibraryData\bin\Debug\netstandard2.0\LibraryData.dll
+D:\SoftwareEngineer\.Net Domashno\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.csprojAssemblyReference.cache
+D:\SoftwareEngineer\.Net Domashno\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfoInputs.cache
+D:\SoftwareEngineer\.Net Domashno\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfo.cs
+D:\SoftwareEngineer\.Net Domashno\Library\LibraryData\bin\Debug\netstandard2.0\LibraryData.pdb
+D:\SoftwareEngineer\.Net Domashno\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.csproj.CoreCompileInputs.cache
+D:\SoftwareEngineer\.Net Domashno\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.dll
+D:\SoftwareEngineer\.Net Domashno\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.pdb
+C:\Users\35987\OneDrive\Desktop\Library\LibraryData\bin\Debug\netstandard2.0\LibraryData.deps.json
+C:\Users\35987\OneDrive\Desktop\Library\LibraryData\bin\Debug\netstandard2.0\LibraryData.dll
+C:\Users\35987\OneDrive\Desktop\Library\LibraryData\bin\Debug\netstandard2.0\LibraryData.pdb
+C:\Users\35987\OneDrive\Desktop\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.csprojAssemblyReference.cache
+C:\Users\35987\OneDrive\Desktop\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\35987\OneDrive\Desktop\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfoInputs.cache
+C:\Users\35987\OneDrive\Desktop\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.AssemblyInfo.cs
+C:\Users\35987\OneDrive\Desktop\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.dll
+C:\Users\35987\OneDrive\Desktop\Library\LibraryData\obj\Debug\netstandard2.0\LibraryData.pdb
